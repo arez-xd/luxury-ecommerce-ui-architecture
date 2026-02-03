@@ -69,10 +69,15 @@ design-system/
 ├── tokens/
 │   ├── core.json        # Raw primitives and scales
 │   └── tokens.json      # Semantic tokens consumed by UI
-└── docs/
-    ├── tokens.md        # Token architecture and layering
-    ├── color.md         # Color roles and usage rules
-    └── typography.md    # Typographic roles and conventions
+├── docs/
+│   ├── principles.md
+│   ├── tokens.md
+│   ├── typography.md
+│   ├── spacing.md
+│   └── components.md
+│
+└── figma/
+    └── README.md
 ```
 
 ## Status
