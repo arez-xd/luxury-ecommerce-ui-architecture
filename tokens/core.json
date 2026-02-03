@@ -1,0 +1,91 @@
+{
+  "core": {
+    "space": {
+      "4": { "value": 4 },
+      "8": { "value": 8 },
+      "12": { "value": 12 },
+      "16": { "value": 16 },
+      "24": { "value": 24 }
+    },
+
+    "radius": {
+      "4": { "value": 4 },
+      "8": { "value": 8 },
+      "12": { "value": 12 }
+    },
+
+    "border": {
+      "width": {
+        "0": { "value": 0 },
+        "1": { "value": 1 },
+        "2": { "value": 2 }
+      }
+    },
+
+    "color": {
+      "base": {
+        "white": { "value": "#FFFFFF" },
+        "offwhite": { "value": "#FEFEFE" },
+        "black": { "value": "#0C0C0C" },
+        "red": { "value": "#FF3B30" },
+        "green": { "value": "#34C759" }
+      },
+      "brand": {
+        "cta": { "value": "#1E1F20" }
+      },
+      "gray": {
+        "50": { "value": "#F9FAFB" },
+        "100": { "value": "#F3F4F6" },
+        "200": { "value": "#E5E7EB" },
+        "300": { "value": "#D1D5DB" },
+        "400": { "value": "#9CA3AF" },
+        "500": { "value": "#6B7280" },
+        "600": { "value": "#4B5563" },
+        "700": { "value": "#374151" },
+        "800": { "value": "#1F2937" },
+        "900": { "value": "#111827" },
+        "950": { "value": "#030712" }
+      }
+    },
+
+    "font": {
+      "family": {
+        "sans": { "value": "SF Pro Text" }
+      },
+      "weight": {
+        "regular": { "value": 400 },
+        "medium": { "value": 500 },
+        "semibold": { "value": 600 },
+        "bold": { "value": 700 }
+      },
+      "size": {
+        "10": { "value": 10 },
+        "11": { "value": 11 },
+        "12": { "value": 12 },
+        "13": { "value": 13 },
+        "15": { "value": 15 },
+        "16": { "value": 16 },
+        "17": { "value": 17 },
+        "20": { "value": 20 },
+        "22": { "value": 22 },
+        "28": { "value": 28 },
+        "34": { "value": 34 }
+      },
+      "lineHeight": {
+        "12": { "value": 12 },
+        "13": { "value": 13 },
+        "14": { "value": 14 },
+        "16": { "value": 16 },
+        "18": { "value": 18 },
+        "20": { "value": 20 },
+        "24": { "value": 24 },
+        "26": { "value": 26 },
+        "34": { "value": 34 },
+        "41": { "value": 41 }
+      },
+      "letterSpacing": {
+        "normal": { "value": 0 }
+      }
+    }
+  }
+}
